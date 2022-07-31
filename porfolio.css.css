@@ -1,0 +1,183 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+   
+}
+nav{
+    background-color: #F47F12;
+    height: 100px;
+    
+}
+
+.nav-link{
+   position: relative;
+   left: 700px;
+    
+}
+
+main{
+    background-color: #384D74;
+    
+    padding-bottom: 150px;
+}
+
+main img{
+    width: 100%;
+  
+}
+
+.Text-Inside-Image .Hello{
+    position: relative;
+    bottom: 660px;
+    left: 130px;
+
+    font-size: 90px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: arial;
+    color: white;
+
+}
+
+.Text-Inside-Image .Name{
+    position: relative;
+    bottom: 640px;
+    left: 120px;
+
+    font-size: 72px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: arial;
+    color: white;
+
+}
+
+.Text-Inside-Image .Orange-Academy{
+    position: relative;
+    bottom: 600px;
+    left: 120px;
+
+    font-size: 42px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: arial;
+    color: white;
+}
+
+.Text-Inside-Image .Button{
+    position: relative;
+    bottom: 570px;
+    left: 250px;
+    background-color: #384D74;
+    stroke: none;
+    border: #384D74;
+    font-size: 27px;
+    color: #F47F12;
+    font-weight: 600;
+    font-family: "Times New Roman", Times, serif;
+    padding: 10px;
+}
+
+.Personal{
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+}
+
+.Personal ul li{
+    list-style: none;
+} 
+
+.info{
+    font-size: 23px;
+
+}
+#information{
+    padding: 15px 10px 15px 10px;
+    background-color: #F47F12;
+  
+}
+
+.Personal img{
+    width: 600px;
+    height: 500px;
+}
+
+
+#Education{
+    padding-top: 100px;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+}
+
+#Education ul li{
+    list-style: none;
+    text-align: center;
+} 
+
+.Education-B{
+    padding: 15px 10px 15px 10px;
+    background-color: #F47F12;
+}
+
+.Educ{
+    font-size: 23px;
+    padding-top: 70px;
+}
+
+#Education img{
+    width: 600px;
+    height: 500px;
+}
+
+
+
+#Hobby{
+    display: flex;
+    padding-top: 100px;
+    color: white;
+    justify-content: space-evenly;
+}
+
+#Hobby img{
+    width: 600px;
+    height: 500px;
+    margin-left:  70px; ;
+}
+
+
+.Hobby-Header{
+    padding: 15px 60px 15px 60px;
+    background-color: #F47F12;
+    
+}
+
+.Hobby-Paragraph{
+    font-size: 23px;
+    padding-top: 40px;
+    
+}
+
+#Hobby ul li{
+    list-style: none;
+}
+
+footer{
+    display: flex;
+    background-color: #376B9C;
+    justify-content: end;
+    padding-right: 250px;
+}
+
+footer img{
+    width: 70px;
+    height: 70px;
+
+}
+
+.footer{
+    margin: 20px 20px 20px 20px;
+    
+}
